@@ -3,6 +3,8 @@
 Desenvolver um projeto simples capaz de cadastrar usuários. 
 Não será necessário a utilização de banco de dados, podendo manter os dados em memória.
 
+Ao encerrar, subir o projeto para um repositório (Github, Bitbucket, etc) e enviar o link para ti@uaufi.com
+
 ### Features
 
 - Cadastro de usuários, contendo os seguintes campos: 
